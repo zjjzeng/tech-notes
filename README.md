@@ -10,7 +10,7 @@
 ### leetcode
 
 ## Computer Networking
-### basic
+### basics
 ### TCP & UDP
 ### HTTP/HTTPS
 ### Cookies
@@ -18,7 +18,7 @@
 ## Operating System
 
 ## Database
-### basic
+### basics
 ### SQL
 
 ## Programing Languages
@@ -31,5 +31,11 @@
 ## Job Interview
 
 ## Open Course
+* [CS 61A Resources Workflow](https://cs61a.org/resources.html) by Berkeley EECS
 * [Computer Science: Algorithms, Theory, and Machines](https://www.coursera.org/learn/cs-algorithms-theory-machines/home/welcome) by Princeton University
+* [Structure and Interpretation of Computer Programs](https://inst.eecs.berkeley.edu/~cs61a/sp19) by Dan Garcia, UCB
+* [Standard C++ Programming](http://web.stanford.edu/class/cs106l) by Stanford University
 * [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning) by Yann LeCun, NYU Center for Data Science
+
+## Beyond ##
+thoughts, interesting discussions, helpful tools, funnny iedas and more 

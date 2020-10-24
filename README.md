@@ -39,3 +39,6 @@
 
 ## Beyond ##
 thoughts, interesting discussions, helpful tools, funnny iedas and more 
+
+![](images/logo1.png)
+![](images/nyu_short_color.png)

@@ -38,7 +38,7 @@
 * [Deep Learning](https://atcold.github.io/pytorch-Deep-Learning) by Yann LeCun, NYU Center for Data Science
 
 ## Beyond ##
-thoughts, interesting discussions, helpful tools, funnny iedas and more 
+thoughts, interesting discussions, helpful tools, funnny ideas and more 
 
 ![](images/logo1.png)
 ![](images/nyu_short_color.png)
